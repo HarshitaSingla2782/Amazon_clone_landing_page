@@ -169,7 +169,6 @@ span {
   background-color: white;
   padding: 20px 0px 15px;
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 .box-img {
   height: 300px;
@@ -189,6 +188,9 @@ span {
 /* SHOP SECTION ENDS */
 
 /* FOOTER STARTS */
+footer {
+  margin-top: 20px;
+}
 .foot-panel1 {
   background-color: #37475a;
   color: white;
@@ -252,6 +254,9 @@ ul li:hover {
   justify-content: center;
   align-items: center;
   font-size: 0.75rem;
+}
+.pages a {
+  padding: 0px 7px;
 }
 .pages a:hover {
   text-decoration: underline;
